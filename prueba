@@ -1,0 +1,20 @@
+
+<div id="container">
+  <div id="header">
+    <h1 align="center">ESTUDIANTES</h1>
+
+    <p align="center">Esta sección es para los estudiantes de preparatoria que tengo en este momento.</p>
+    <p align="center"><img class="shadow" src="/cobach/img/estudiantes.jpg" width="550" height="367" /></p>
+  </div>
+
+  <div id="body">
+    <p>&nbsp;</p>
+    <p align="center">Ing. Miguel Ángel Lozano Chairez.</p>
+    <p align="center"><strong>e-mail</strong><br />miguel-angel.lozano [@] cobachbc.edu.mx</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">[ <strong><a href="/cobach/cuartocap.html">cuarto semestre</a></strong> | <strong><a href="/cobach/sextocap.html">sexto semestre</a></strong> ]</p>
+    <div align="center"></div>
+    <p align="center">[ <a href="../index.html"><b>home</b></a> ]</p>
+  </div>
+
+</div>
